@@ -166,8 +166,5 @@ DiamondCard = ['A',2,3,4,5,6,7,8,9,10,'J','Q','K']
 SymbolsList = ['S','H','C','D']
 
 if __name__ == '__main__':
-	aString = 'this is a test'
-	aString = aString[:6] + 'Python!'
-	aString = 'different string altogether'
 	Solution = ''
 	main().run()
